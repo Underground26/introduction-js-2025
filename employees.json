@@ -1,0 +1,29 @@
+{
+
+    "_comment" : "Vamos a simular una base de datos, como si fuese de verdad",
+    "_comment1": "Es obligatorio usar comillas dobles",
+ 
+    "employees" : [
+        
+        {
+            "id" : 1,
+            "UserName" : "John",
+            "job" : "UX / UI"
+        },
+        {
+            "id" : 1,
+            "UserName" : "Peter",
+            "job" : "Web Programmer"
+        },
+        {
+            "id" : 1,
+            "UserName" : "Camilo",
+            "job" : "Marketing"
+        },
+        {
+            "id" : 1,
+            "UserName" : "Dayana",
+            "job" : "Servers"
+        }
+    ]
+}
